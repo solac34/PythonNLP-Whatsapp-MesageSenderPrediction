@@ -1,5 +1,5 @@
 # PythonNLP-Whatsapp-MesageSenderPrediction
-####Predict who sent this message using nlp, with options of SVM and RandomForests!
+#### Predict who sent this message using nlp, with options of SVM and RandomForests!
 <li>First, inputs a path where .txt file that exported from whatsapp located.</li> 
 <li>Then,open sthe txt file and converts it to csv with editing it. Whatsapp messages includes timestamps and LRMs.Messages that sent with newline
 by user is also a problem since they don't have the timestamp.</li>
