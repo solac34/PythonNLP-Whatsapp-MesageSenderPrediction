@@ -45,11 +45,6 @@ This is not a valid file.Please note that |Messages and calls are end-to-end enc
     return csvpath
 
 
-# ‎[17.10.2020 23:49:15] Ata Can: ‎image omitted
-#
-#
-
-
 def getAnalysis(pth):  # pth = csvpath
     language = str(input('Language of this message file:'))
     df = pd.read_csv(pth)
